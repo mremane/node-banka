@@ -1,0 +1,20 @@
+{
+  "name": "banka-api",
+  "version": "1.0.0",
+  "description": "Demo app for bank deposits management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco G. Remane",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "hapi": "^17.3.1",
+    "inert": "^5.1.0",
+    "mongoose": "^5.1.2",
+    "nexmo": "^2.3.2",
+    "npm": "^5.10.0",
+    "vision": "^5.3.2"
+  }
+}
